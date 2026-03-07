@@ -114,7 +114,7 @@ Full Stack Development – SkillWallet Project
 
 ## 📷 Demo
 
-(Add demo link here after recording your project demonstration)
+https://youtu.be/yM_KZliXpL4
 
 ---
 
